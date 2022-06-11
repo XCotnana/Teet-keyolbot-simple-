@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6285641476033','6285641476033','6281227250948']
+global.owner = ['6285641476033','6285641476033','6285641476033']
 global.ownernomer = '6285641476033'
 global.premium = ['6285641476033']
 global.ownername = 'Raditya¡X'
@@ -65,11 +65,11 @@ global.mess = {
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     endGLimit: 'Limit Harian Game Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
-global.limitharian = "15"
-global.limitgame = "15"
+global.limitharian = "70"
+global.limitgame = "70"
 global.limitawal = {
     premium: "Infinity",
-    free: 15
+    free: 70
 }
 
 // Logs update
