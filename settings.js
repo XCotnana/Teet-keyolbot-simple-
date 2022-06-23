@@ -21,19 +21,19 @@ global.APIKeys = {
 global.owner = ['6285641476033','6285641476033','6285641476033']
 global.ownernomer = '6285641476033'
 global.premium = ['6285641476033']
-global.ownername = 'Raditya¡X'
-global.botname = 'Xdit-Md'
-global.footer = 'Xdit-Md'
+global.ownername = 'X-ZC'
+global.botname = 'X-ZC'
+global.footer = 'X-ZC'
 global.email = 'rya76438@gmail.com'
 global.ig = 'http://instagram.com/hai_om.qw?utm_source=qr'
-global.region = 'Planet Mars'
+global.region = 'Mars'
 
 // Keperluan buttons
 global.myweb = 'http://instagram.com/hai_om.qw?utm_source=qr'
 global.sc = 'http://instagram.com/hai_om.qw?utm_source=qr'
 
 // Wm
-global.packname = 'StikerBy Xdit-MD'
+global.packname = 'X-ZC'
 global.author = 'IG @hai_om.qw'
 
 // Thumb & Image random
